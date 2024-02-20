@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 개발자 정회석입니다. 👋
 
 <!--
 **jeong-hoi-seok/jeong-hoi-seok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
